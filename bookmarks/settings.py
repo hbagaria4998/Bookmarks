@@ -138,12 +138,12 @@ AUTHENTICATION_BACKENDS = [
     'social_core.backends.google.GoogleOAuth2',
 ]
 
-SOCIAL_AUTH_FACEBOOK_KEY = '220947212123875' # Facebook App ID
-SOCIAL_AUTH_FACEBOOK_SECRET = '718146fb67a514284536b16d5925cb3d' # Facebook App Secret
+SOCIAL_AUTH_FACEBOOK_KEY = 'xxx' # Facebook App ID
+SOCIAL_AUTH_FACEBOOK_SECRET = 'xxx' # Facebook App Secret
 SOCIAL_AUTH_FACEBOOK_SCOPE = ['email']
 
-SOCIAL_AUTH_TWITTER_KEY = 'ym451e8zO3qDJrrzTrDqL3IcU' # Twitter Consumer Key
-SOCIAL_AUTH_TWITTER_SECRET = '0dV3y9rzTOAHT4ItdT7XZjG17MhhV5T0OqBFBBLbTJ3TLIslAh' # Twitter Consumer Secret
+SOCIAL_AUTH_TWITTER_KEY = 'xxx' # Twitter Consumer Key
+SOCIAL_AUTH_TWITTER_SECRET = 'xxx' # Twitter Consumer Secret
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '916380438201-me21k90v4j5senk6nm269jl53f352k8t.apps.googleusercontent.com' # Google Consumer Key
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'dR2GiO9d9poOupBSC5oMVgzv' # Google Consumer Secret
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = 'xxx' # Google Consumer Key
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = 'xxx' # Google Consumer Secret
